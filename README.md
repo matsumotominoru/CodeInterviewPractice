@@ -2,7 +2,7 @@
 
 ## Paiza
 
-[Paiza](https://paiza.jp/challenges)
+[Paiza](https://paiza.jp/challenges/info)
 
 ### Language
 
